@@ -1,1 +1,1 @@
-# credence.in
+# credence
